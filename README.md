@@ -32,3 +32,33 @@ A simple and responsive To-Do List application built using the **MERN Stack** (M
 
 ## 📁 Folder Structure
 
+project-root/
+├── backend/ # Node.js + Express API
+│ ├── models/
+│ ├── routes/
+│ ├── server.js
+│ └── ...
+├── frontend/ # React + Tailwind CSS
+│ ├── src/
+│ ├── public/
+│ ├── App.js
+│ └── ...
+└── README.md
+
+
+---
+
+## ⚙️ Getting Started
+
+### 📌 Prerequisites
+
+- Node.js & npm
+- MongoDB (running locally or MongoDB Atlas)
+
+---
+
+## 🧩 Backend Setup
+
+1. **Navigate to the backend folder:**
+   ```bash
+   cd backend
